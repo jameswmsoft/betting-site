@@ -1,0 +1,135 @@
+
+.newbtn_draw{
+    display: block;
+    float: right;
+}
+#sample_1_wrapper{
+    font-size: 15px;
+}
+
+#responsive .modal-content{
+    border-radius: 10px !important;
+    padding: 20px;
+}
+#responsive .modal-content .slimScrollDiv input{
+    margin-bottom: 10px;
+}
+
+#responsive .modal-content .slimScrollDiv h4 {
+     margin-bottom: 0px;
+}
+
+#responsive .modal-content .m_content{
+    margin-top: 30px;
+}
+#responsive .modal-content .m_content .datapick_start{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#responsive_agent .modal-content .slimScrollDiv input{
+    margin-bottom: 10px;
+}
+
+#responsive_agent .modal-content .slimScrollDiv h4 {
+    margin-bottom: 24px;
+}
+
+#responsive_agent .modal-content .slimScrollDiv{
+    height: 130px !important;
+}
+
+
+.datapick_start a{
+    font-size: 15px;
+}
+.datapick_end a{
+    font-size: 15px;
+}
+.datapick_start .editable-popup{
+    top: -70px !important;
+}
+.datapick_start .editable-popup .arrow{
+    top: 32% !important;
+}
+.datapick_end{
+    margin-bottom: 25px;
+}
+
+#responsive .modal-content .m_content .board_num{
+    width: 35px;
+    float: right;
+}
+#responsive .modal-content .board_title{
+    text-align: center;
+}
+
+#responsive .modal-content .div_board{
+    float: right;
+}
+#responsive .modal-content .slimScrollDiv{
+    height: auto !important;
+}
+#responsive .modal-content .slimScrollDiv .scroller{
+    height: auto !important;
+}
+#responsive .modal-content .win_prize{
+    margin: 100px 0px 0px 0px ;
+}
+#responsive .modal-content .board_abc{
+    margin-top: 0px;
+    float: right;
+    margin-left: 35px;
+}
+#responsive .modal-content .board_abc p{
+    display: inline-block;
+    margin-left: 27px;
+    padding-right: 8px;
+}
+#responsive .modal-content .win_prize input{
+    display: inline-block;
+    width: 135px;
+    float: right;
+}
+#responsive .modal-content .win_prize label{
+    display: inline-block;
+    padding-top: 6px;
+}
+#responsive .modal-content .m_content .price_unit{
+    float:right;
+    font-size: 18px;
+    margin-left: 8px;
+}
+#responsive .modal-content .cost{
+    width: 180px !important;
+}
+
+#responsive .modal-content .div_board{
+    margin-right: 5px;
+}
+
+#responsive .modal-content .div_board select{
+    width: 40px;
+    padding: 6px 13px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+#responsive .modal-content .div_board select::-ms-expand {
+    display: none !important;
+}
+#sample_1 tbody a{
+    height: 25px;
+    padding: 3px 15px;
+    width: 90px;
+}
+#sample_1 tbody button{
+    height: 25px;
+    padding: 3px 15px;
+    width: 90px;
+}
+
+.edit_draw .modal-content{
+    box-shadow: none !important;
+}

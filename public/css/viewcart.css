@@ -1,0 +1,92 @@
+
+
+.v_cart{
+    margin-top: 100px;
+}
+.v_cart table{
+    font-size: 18px;
+}
+.v_cart table tr{
+    height: 60px;
+}
+.v_cart table tr td, th{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.v_cart .total{
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    float: right;
+    margin-top: 10px;
+}
+.v_cart #checkout{
+    float: right;
+    width: 150px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+
+.v_cart .value-button {
+    display: inline-block;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 6px 0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #10122d;
+    color: white;
+}
+
+.v_cart .value-button:hover {
+    cursor: pointer;
+}
+
+.v_cart form #decrease {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+    background-color: #10122d;
+    color: white;
+}
+
+.v_cart form #increase {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+    background-color: #10122d;
+    color: white;
+}
+
+.v_cart form #input-wrap {
+    margin: 0px;
+    padding: 0px;
+}
+
+.v_cart input#number {
+    text-align: center;
+    border: none;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: #10122d;
+}
+
+.v_cart input[type=number]::-webkit-inner-spin-button,
+.v_cart input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.v_cart .close{
+    float: left;
+    color: white;
+}
+.v_cart .close{
+    font-size: 25px;
+}

@@ -1,0 +1,84 @@
+
+@media (max-width: 1600px) {
+    .g_draw_content .g_close {
+        height: 60px;
+        padding: 15px 10px;
+        font-size: 25px;
+    }
+    .g_draw_content .g_play a {
+        width: 45%;
+        background-color: #2e79ff;
+        color: white;
+        font-size: 20px;
+        border-radius: 10px !important;
+        height: 40px;
+        padding-top: 7px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .g_draw_content .g_close {
+        height: 40px;
+        padding: 6px 0px;
+        font-size: 20px;
+    }
+    .g_draw_content {
+        padding: 23px 0px;
+    }
+    .g_draw_content .g_play a {
+        font-size: 17px;
+        height: 30px;
+        padding-top: 4px;
+    }
+}
+
+@media (max-width: 430px) {
+    .g_draw_title h3 {
+        font-size: 18px;
+    }
+    .g_draw_content .g_close {
+        height: 33px;
+        padding: 6px 0px;
+        font-size: 16px;
+    }
+    .g_draw_content .g_play a {
+        font-size: 13px;
+        height: 24px;
+        padding-top: 4px;
+    }
+    .g_draw_title p {
+        margin: 12px 4px 0px 0px;
+        font-size: 13px;
+    }
+}
+@media (max-width: 350px) {
+    .g_draw_title h3 {
+        font-size: 14px;
+    }
+    .g_draw_title p {
+        margin: 12px 0px 0px 0px;
+        font-size: 11px;
+    }
+    .g_draw_content {
+        padding: 16px 0px;
+    }
+    .g_draw_content .g_close {
+        height: 33px;
+        padding: 6px 0px;
+        font-size: 14px;
+    }
+    .g_draw_content .g_close {
+        width: 80%;
+    }
+    .g_draw_content .g_play a {
+        font-size: 11px;
+        height: 24px;
+        padding: 5px 0px 0px 0px !important;
+    }
+    .panel-body {
+        padding: 15px 0px;
+    }
+    .g_pic_play{
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,20 @@
+.panel-login .pad-btm{
+    font-size: 35px;
+}
+.login_user{
+    height: 40px;
+}
+.login_user input{
+    height: 40px;
+    font-size: 18px;
+}
+.panel-login .form-group{
+    margin-bottom: 35px;
+}
+.panel-login .main_login{
+    margin-bottom: 0px !important;
+}
+
+.panel-login .main_login .btn-labeled:not(.btn-block):not(.form-icon) {
+    font-size: 16px;
+}

@@ -1,0 +1,220 @@
+#responsive .modal-body .user_title{
+    margin-top: -16px;
+}
+
+#responsive .modal-body .user_title h4{
+    padding-top: 15px;
+}
+
+#responsive .modal-body .user_access{
+    margin-top: 15px;
+}
+
+#responsive .modal-body .user_access .form-md-checkboxes{
+    padding-left: 20px;
+    margin-top: 20px;
+}
+#sample_2 {
+    font-size: 15px;
+}
+#sample_2 tbody button{
+    width: 80px;
+    font-size: 14px;
+    padding: 2px 15px;
+}
+#sample_2 tbody a{
+    width: 80px;
+    font-size: 14px;
+    padding: 3px 15px;
+}
+#sample_3 {
+    font-size: 15px;
+}
+#sample_3 tbody button{
+    width: 80px;
+    font-size: 14px;
+    padding: 2px 15px;
+}
+#sample_3 tbody a{
+    width: 80px;
+    font-size: 14px;
+    padding: 3px 15px;
+}
+
+#responsive .tD_lot_modal .tD_bet_title{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: -15px;
+}
+#responsive .tD_lot_modal .div_board {
+    margin-right: 31px;
+}
+
+#responsive .tD_lot_modal .board_abc {
+    margin-top: 0px;
+    float: right;
+    /* margin-left: 10px; */
+    margin-right: 23px;
+}
+#responsive .tD_lot_modal .board_abc p {
+    display: inline-block;
+    margin-left: 55px;
+    padding-right: 8px;
+}
+.edit_tD_draw .tD_lot_modal{
+    box-shadow: none;
+    float: left;
+}
+.edit_tD_draw .modal-dialog{
+    margin: 30px 0px!important;
+}
+
+.tD_analyse_title{
+    margin:30px 0px 0px;
+    padding-left: 20px;    
+}
+
+.tD_analyse_title .first{
+    padding-left: 0px;
+}
+
+.tD_analyse_title .middle{
+    text-align: center;
+}
+
+.tD_analyse_title .end{
+    text-align: right;
+
+}
+
+.tD_analyse_title label{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: -35px;
+}
+.sample_analyse{
+    font-size: 15px;
+    font-weight: 600;
+}
+.sample_pic_analyse{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+}
+.sample_pic_analyse thead th{
+    text-align: right;
+}
+.pic_analyse_unit{
+    margin-top: 52px;
+    font-size: 20px;
+}
+.pic_analyse_unit p{
+    padding-top: 7px;
+}
+.reportInput .inputNum select{
+    width: 55px;
+    height: 55px;
+    font-size: 45px;
+    padding: 0px 11px;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    font-weight: 600;
+}
+
+.profitableNum{    
+    padding-left: 30px;
+    margin-top: 5px;
+}
+.profitableNum label{
+    font-size: 16px;
+    font-weight: 600;
+}
+.reportInput .inputNum{
+   text-align: center;
+   margin-top: 10px;
+}
+.reportInput .inputNum_pic{
+    margin-top: 50px;
+}
+.pic_analyse_back{
+    text-align: right;
+}
+.pic_analyse_back a{
+    width: 100px;
+    margin-top: 60px;
+}
+.reportInput .inputNum label{
+    font-size: 20px;
+    font-weight: 600;
+    padding:0px 10px;
+}
+.reportInput .inputNum input{
+    width: 30px;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 2px 7px;
+    margin-left: 3px;
+}
+.reportInput .inputNum .declare_pic{
+    width: 55px;
+    height: 55px;
+    display: block;
+    float: right;
+    border-radius: 4px;
+    font-size: 45px;
+    padding: 0px 13px;
+}
+.reportNum{
+    margin-top: 40px;
+}
+.winnerReport{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.winnerReport p{
+    font-weight: 600;
+    font-size: 18px;
+}
+.winnerReport .winreporttitle{
+    margin-left: 215px;
+}
+.winnerReport .reportBack{
+    margin-top: 50px;
+    float: right;
+}
+.winnerReport .reportBack a{
+    width: 100px;
+}
+
+.winnerReport .winReportPic{
+    margin-top: 20px;
+    padding-left: 33px;
+}
+
+.declare_title{
+    padding: 5px 0px 10px 30px;
+    font-size: 20px;
+    color: red;
+    border-bottom: 2px solid #999999;
+    width: 350px;
+    margin-left: 30px;
+}
+.declare_button{
+    margin:30px 65px;
+}
+.declare_button_pic{
+    margin-top: 60px;
+    margin-left: 10px;
+}
+.declare_button button{ 
+    width: 120px;
+}
+.declare_prize{
+    margin:30px 30px;
+}
+.declare_prize p{
+    font-size: 16px;
+    font-weight: 600;
+}

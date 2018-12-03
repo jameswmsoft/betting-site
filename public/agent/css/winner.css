@@ -1,0 +1,48 @@
+#sample_3_length{
+    display: none;
+}
+#sample_3_filter{
+    display: none;
+}
+.portlet.light {
+    padding: 12px 20px 15px 0px;
+}
+table#sample_3 thead tr th{
+    font-size: 14px;
+    font-weight: 600;
+}
+table#sample_3 tbody tr td{
+    font-size: 14px;
+    font-weight: 600;
+}
+table#sample_3 tbody button{
+    width: 80px;
+    padding: 2px 10px;
+}
+@media (max-width: 1450px) {
+    .buy_list{
+        width: auto;
+    }
+}
+@media (max-width: 736px) {
+
+    table#sample_2 thead tr th{
+        font-size: 14px !important;
+        font-weight: 600;
+    }
+    table#sample_2 tbody tr td{
+        font-size: 14px !important;
+        font-weight: 600;
+    }
+    table#sample_2 tbody tr td label{
+        font-size: 16px;
+        font-weight: 600;
+        width: 20px;
+    }
+    table#sample_2 tbody tr td.board_list{
+        padding: 0px 10px;
+    }
+    #sample_2 tr{
+        padding: 10px;
+    }
+}

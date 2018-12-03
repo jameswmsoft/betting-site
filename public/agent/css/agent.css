@@ -1,0 +1,90 @@
+.page-header .page-logo h1{
+    font-size: 40px;
+    color: white;
+    font-weight: 600;
+    margin-top: 13px;
+}
+
+.dashboard-stat.blue-madison .details .desc {
+    margin-top: 30px;
+    font-size: 25px;
+}
+.dashboard-stat.red-intense .details .desc{
+    margin-top: 30px;
+    font-size: 25px;
+}
+.dashboard-stat.green-haze .details .desc{
+    margin-top: 30px;
+    font-size: 25px;
+}
+.dashboard-stat.purple-plum .details .desc{
+    margin-top: 30px;
+    font-size: 25px;
+}
+.dashboard-stat.green-madison{
+    background-color: #04c133;
+}
+.dashboard-stat.yellow-haze{
+    background-color: #95c70a;
+}
+.agent_info{
+    display: inline-block;
+    margin-left: 20px;
+}
+.agent_img{
+    width: 40px;
+    height: 38px;
+    border-radius: 50px !important;
+    background-color: #cccccc;
+    margin-top: 13px;
+    margin-left: 20px;
+}
+.agent_name{
+    display: block;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+#responsive_admin .modal-content .slimScrollDiv input{
+    margin-bottom: 10px !important;
+}
+
+#responsive_admin .modal-content .slimScrollDiv h4 {
+    margin-bottom: 24px !important;
+}
+#responsive_admin .modal-content .slimScrollDiv{
+    height: auto !important;
+}
+#responsive_admin .modal-content .slimScrollDiv .scroller{
+    height: auto !important;
+}
+#balance_body{
+    margin-right: 200px;
+    margin-top: 17px;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+}
+
+@media (max-width: 1500px){
+    .dashboard-stat .details .desc {
+        font-size: 20px !important;
+    }
+}
+
+@media (max-width: 1300px){
+    .dashboard-stat .details .desc {
+        font-size: 18px !important;
+    }
+}
+
+@media (max-width: 760px){
+    #balance_body{
+        margin-right: 100px;
+        margin-top: 19px;
+        font-size: 20px;
+        font-weight: 600;
+        color: white;
+    }
+}

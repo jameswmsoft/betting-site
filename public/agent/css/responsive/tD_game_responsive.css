@@ -1,0 +1,309 @@
+
+@media (max-width: 1300px) {
+    .tDLot {
+        width: 700px;
+    }
+    div#tdbet {
+        padding-left: 40px;
+    }
+    .tDLot .tD_draw_title h2 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+    .tDLot .tD_draw_title button {
+        font-size: 20px;
+    }
+    .tDLot .tD_main .tD_title ul li {
+        height: 50px;
+    }
+    .tDLot .tD_main .tD_title ul li label {
+        font-size: 22px;
+        padding: 10px 25px 25px 103px;
+    }
+    .tDLot .tD_main .tD_title ul li .check {
+        top: 15px;
+    }
+    .tDLot .tD_main .tD_content {
+        padding: 15px 25px 0px 25px;
+    }
+    .tDLot .tD_main .tD_ct_ipt input[type=text] {
+        width: 35px;
+        border: 1px solid #50b07d;
+        font-size: 25px;
+        margin-right: 10px;
+    }
+    .tDLot .tD_main .tD_ct_ipt label {
+        font-size: 17px;
+        padding-left: 10px;
+    }
+    .tDLot .tD_main .sname {
+        width: 65px !important;
+        margin-left: 10px !important;
+        padding: 12px 10px !important;
+        font-size: 16px !important;
+        margin-bottom: 3px !important;
+    }
+    .tDLot .tD_main .tD_times {
+        font-size: 20px !important;
+        padding-left: 23px !important;
+    }
+    .tDLot .tD_main .tD_ct_cost label {
+        font-size: 20px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_addbtn {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .tDLot .tD_main .tD_ct_cost button {
+        width: 120px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus button {
+        width: 50px;
+        height: 50px;
+        bottom: -17px;
+        right: -10px;
+        font-size: 38px;
+    }
+    .tDLot .tD_main .tD_ct_cost .eq_cost {
+        width: 170px;
+    }
+
+    /* 2D Lot games */
+    .tDLot .tD_main .tD_sd_type {
+        margin-right: 15px;
+        margin-left: -10px;
+    }
+
+    .tDLot .tD_main .tD_sd_type input[type=radio]:checked ~ .check {
+        border: 2px solid #0DFF92;
+    }
+    .tDLot .tD_main .tD_sd_type ul li .check {
+        height: 16px;
+        width: 16px;
+        top: 5px;
+        left: -15px;
+    }
+    .tDLot .tD_main .tD_sd_type ul li label {
+        font-weight: 500;
+        font-size: 16px;
+        padding: 3px 0px 0px 10px;
+        margin: 0px auto;
+        height: 28px;
+    }
+    .tDLot .tD_main .tD_sd_type ul li .check::before {
+        height: 8px;
+        width: 8px;
+        top: 2px;
+        left: 2px;
+    }
+    .tDLot .mul_opt {
+        font-size: 43px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus .tD_sd_plus {
+        right: 5px !important;
+        bottom: -12px;
+    }
+    .tD_buy {
+        margin-top: -1px;
+    }
+}
+
+@media (max-width: 768px) {
+    .tDLot {
+        width: 100%;
+    }
+    .tDLot .tD_main .tD_content {
+        height: 200px !important;
+        display: inherit;
+        padding: 20px 25px 0px 70px !important;
+    }
+    .tDLot .tD_main .tD_ct_cost .eq_cost {
+        padding-top: 10px !important;
+    }
+    .tDLot .tD_main .tD_ct_cost button {
+        width: 130px;
+        border-radius: 5px !important;
+        display: inline-block;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_add_qbuy{
+        margin-top: -10px;
+        margin-left: 20px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus button {
+        width: 60px;
+        height: 60px;
+        bottom: -4px;
+        right: -10px;
+        font-size: 38px;
+    }
+    div#sdbet {
+        padding: 20px 0px 20px 40px !important;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus .tD_sd_plus {
+        right: 15px !important;
+        bottom: -4px;
+    }
+    div#fdbet {
+        padding: 20px 0px 20px 40px !important;
+    }
+    .tDLot .tD_main .tD_sd_type {
+        margin-right: 70px;
+    }
+}
+
+@media (max-width: 600px) {
+    .tDLot .tD_draw_title button {
+        font-size: 15px;
+    }
+    .tDLot .tD_draw_title button {
+        top: 13px;
+        width: 90px;
+        font-size: 15px;
+    }
+    .tDLot .tD_main .tD_title ul li label {
+        font-size: 22px;
+        padding: 10px 25px 25px 48px;
+    }
+    .tDLot .tD_main .tD_ct_cost .eq_cost {
+        padding-top: 0px !important;
+        margin-bottom: 0px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_addbtn .tD_add_chart {
+        margin-left: -15px;
+        margin-bottom: 10px;
+    }
+    .tDLot .tD_main .tD_title ul li .check {
+        left: 20px;
+    }
+    .tDLot .tD_main .tD_content {
+        height: 225px !important;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus button {
+        bottom: 1px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_addbtn .tD_add_chart {
+        margin-left: -163px;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_add_qbuy {
+        margin-top: 18px;
+        margin-left: 20px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus .tD_sd_plus {
+        right: 15px !important;
+        bottom: 0px;
+    }
+    .tDLot .tD_main .tD_content {
+        padding: 20px 25px 0px 45px !important;
+    }
+}
+@media (max-width: 450px) {
+    .tDLot .tD_draw_title {
+        text-align: left;
+    }
+    .tDLot .tD_draw_title h2 {
+        font-size: 20px;
+        margin-top: 15px;
+        padding-left: 10px;
+    }
+    .tDLot .tD_draw_title button {
+        top: 10px;
+    }
+    .tDLot .tD_main .tD_title ul li label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .tDLot .tD_main .tD_title ul li label {
+        font-size: 16px;
+        padding: 16px 25px 25px 48px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_add_qbuy {
+        position: absolute;
+        left: 2px;
+        top: 65px;
+    }
+    .tDLot .tD_main .tD_content {
+        height: 260px !important;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus button {
+        bottom: -34px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_addbtn .sd_confirm {
+        margin-left: -162px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus .tD_sd_plus {
+        right: 15px !important;
+        bottom: -34px;
+    }
+    .tDLot .tD_main .tD_sd_type {
+        margin-right: 40px;
+    }
+}
+@media (max-width: 420px) {
+    .tDLot .tD_main .tD_title ul li label {
+        padding: 10px 25px 25px 48px;
+    }
+    .tDLot .tD_main .tD_content {
+        padding: 20px 0px 0px 10px !important;
+    }
+    div#tdbet {
+        padding-left: 25px !important;
+    }
+    .tDLot .tD_main .tD_ct_ipt input[type=text] {
+        width: 30px;
+        border: 1px solid #50b07d;
+        font-size: 20px;
+        margin-right: 10px;
+    }
+    .tDLot .mul_opt {
+        font-size: 38px;
+    }
+    .tDLot .tD_main .sname {
+        width: 65px !important;
+        margin-left: 9px !important;
+        padding: 8px 10px !important;
+        font-size: 15px !important;
+        margin-bottom: 3px !important;
+    }
+    .tDLot .tD_main .tD_ct_ipt label {
+        padding-left: 15px !important;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus button {
+        bottom: -30px;
+        right: 40px;
+    }
+    .tDLot .tD_main .tD_sd_type ul li {
+        display: inline-block;
+    }
+    .tDLot .tD_main .tD_sd_type ul li label {
+        padding: 3px 15px 0px 0px;
+    }
+    .tDLot .tD_main .tD_ct_ipt form{
+        position: absolute;
+        top: 27px;
+    }
+    .tDLot .tD_main .tD_ct_cost{
+        position: absolute;
+        top: 228px;
+    }
+    .tDLot .tD_main .tD_ct_cost .tD_plus .tD_sd_plus {
+        right: 40px !important;
+        bottom: -30px;
+    }
+    div#sdbet {
+        padding: 20px 0px 20px 25px !important;
+    }
+    div#fdbet {
+        padding: 20px 0px 20px 25px !important;
+    }
+    .tDLot .tD_main .tD_sd_type ul li .check {
+        height: 16px;
+        width: 16px;
+        top: 5px;
+        left: -3px;
+    }
+    .tDLot .tD_main .tD_sd_type {
+        margin-left: -30px;
+    }
+}
